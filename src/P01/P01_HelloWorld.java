@@ -7,5 +7,7 @@ public class P01_HelloWorld {
 
 
         System.out.println("Hello World");
+
+        System.out.println("Hello Github");
     }
 }
